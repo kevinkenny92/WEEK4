@@ -1,0 +1,23 @@
+{
+  "name": "week4day2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "pg": "^7.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinkenny92/WEEK4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinkenny92/WEEK4/issues"
+  },
+  "homepage": "https://github.com/kevinkenny92/WEEK4#readme"
+}
